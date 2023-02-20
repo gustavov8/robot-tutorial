@@ -4,7 +4,6 @@ Resource         amazon_resources.robot
 Test Setup       Abrir o navegador
 Test Teardown    Fechar o navegador
 
-
 *** Test Cases ***
 Caso de teste 01 - Acesso ao menu "Eletrônicos" 
     [Documentation]  Esse teste verifica o menu eletronico do site Amazon.com.br
